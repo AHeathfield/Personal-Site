@@ -1,0 +1,83 @@
+.background {
+    background-color: #1f1f1f;
+    color: lightgray;
+}
+
+.lightgrayBG {
+    background-color: #bfbfbf;
+}
+
+.navBG {
+    background-color: #545454;
+}
+
+.navText {
+    color: #DC3545;
+}
+
+#contact {
+    font-weight: bold;
+    color: #fafafa;
+}
+
+.aidan {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.status {
+    font-size: 50px;
+    color: #DC3545;
+}
+
+.card {
+    border: 10px solid gray;
+    filter: brightness(90%);
+}
+
+
+.logo {
+    border: 2px solid white;
+    border-radius: 50%;
+    background-color: #DC3545;
+}
+
+.textBackground {
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: #fafafa;
+}
+
+.buttonSize {
+    font-size: 1.5rem;
+}
+
+.buttonSize2 {
+    font-size: 1.2rem;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.nothing {
+    background-color: unset;
+    border: unset;
+    color: lightgray;
+}
+
+#bgSize {
+    height: 15.5rem;
+}
+
+#hey {
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+hr {
+    color: #DC3545;
+}
